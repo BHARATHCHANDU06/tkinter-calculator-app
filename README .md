@@ -3,8 +3,9 @@
 A simple and interactive desktop calculator built using **Python and Tkinter**. This application provides a graphical user interface (GUI) for performing arithmetic operations with easy-to-use buttons.
 
 ## 📸 Application Preview
+Here is a preview of my Tkinter Calculator App.
 
-![Tkinter Calculator App](calculator-screenshot.png)
+![Tkinter Calculator App](calculator_screenshort.png)
 
 ## ✨ Features
 
